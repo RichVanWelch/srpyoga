@@ -1,4 +1,9 @@
 body {
-    background-color: rgba(104, 144, 32, 100);
+    background-color: rgba(104, 144, 32, .75);
     font-family:arial; color:white;
+}
+
+img {
+    width: 500px;
+    height: auto;
 }
